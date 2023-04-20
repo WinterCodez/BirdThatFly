@@ -1,0 +1,11 @@
+C:\Users\jarre\source\repos\Bird That Fly\Bird That Fly\obj\Debug\Bird That Fly.csproj.AssemblyReference.cache
+C:\Users\jarre\source\repos\Bird That Fly\Bird That Fly\obj\Debug\Bird That Fly.csproj.SuggestedBindingRedirects.cache
+C:\Users\jarre\source\repos\Bird That Fly\Bird That Fly\obj\Debug\Bird_That_Fly.Form1.resources
+C:\Users\jarre\source\repos\Bird That Fly\Bird That Fly\obj\Debug\Bird_That_Fly.Properties.Resources.resources
+C:\Users\jarre\source\repos\Bird That Fly\Bird That Fly\obj\Debug\Bird That Fly.csproj.GenerateResource.cache
+C:\Users\jarre\source\repos\Bird That Fly\Bird That Fly\obj\Debug\Bird That Fly.csproj.CoreCompileInputs.cache
+C:\Users\jarre\source\repos\Bird That Fly\Bird That Fly\bin\Debug\Bird That Fly.exe.config
+C:\Users\jarre\source\repos\Bird That Fly\Bird That Fly\bin\Debug\Bird That Fly.exe
+C:\Users\jarre\source\repos\Bird That Fly\Bird That Fly\bin\Debug\Bird That Fly.pdb
+C:\Users\jarre\source\repos\Bird That Fly\Bird That Fly\obj\Debug\Bird That Fly.exe
+C:\Users\jarre\source\repos\Bird That Fly\Bird That Fly\obj\Debug\Bird That Fly.pdb
